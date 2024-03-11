@@ -1,5 +1,5 @@
 # HomomorphicEncryptionDemo
-This code repository is to showcase Homomorphic Encryption using the Cheon-Kim-Kim-Song (CKKS) Fully Homomorphic Encryption (FHE) scheme. This demonstration showcases the power of privacy-preserving computations using the TenSEAL library, designed for seamless homomorphic encryption operations on tensors. Built on the robust foundation of Microsoft SEAL, TenSEAL offers a user-friendly interface for secure and efficient computation of encrypted data.
+This code repository is to showcase Homomorphic Encryption using the Cheon-Kim-Kim-Song (CKKS) which is a Somewhat Homomorphic Encryption (SHE) scheme. This demonstration showcases the power of privacy-preserving computations using the TenSEAL library, designed for seamless homomorphic encryption operations on tensors. Built on the robust foundation of Microsoft SEAL, TenSEAL offers a user-friendly interface for secure and efficient computation of encrypted data.
 
 # About CKKS and TenSEAL
 CKKS, an acronym derived from the last names of its inventors, namely Cheon, Kim, Kim, and Song, represents a breakthrough in homomorphic encryption. It enables computations on encrypted real numbers, facilitating secure data analysis and machine learning tasks.
